@@ -1,3 +1,4 @@
+# Python program to motion detect using computer vision.
 import threading
 import cv2 as cv
 import imutils as util
